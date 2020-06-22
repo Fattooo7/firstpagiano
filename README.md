@@ -1,2 +1,1 @@
-# firstpagiano
-first page 
+permalink: /index.html
