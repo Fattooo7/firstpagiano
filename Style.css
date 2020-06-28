@@ -49,6 +49,7 @@ header a{
 }
 
 .right{
+	margin-left: 200px;
 	transform: translate(5px,5px);	
 }
 img{
